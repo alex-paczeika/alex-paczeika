@@ -2,10 +2,10 @@
 
 
 
-<h1> Hi, I'm Alex, a Frontend Developer </h1>
+<h1> Hi, I'm Alex, a Frontend Developer👨 </h1>
 
-🔭 I’m currently working on a lot of projects. <br>
-🔭 I'm currently learning React.js and React Native.
+💻 I’m currently working on a lot of projects. <br>
+📱 I'm currently learning React.js and React Native.
 
 
 
