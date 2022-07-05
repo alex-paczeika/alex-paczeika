@@ -2,9 +2,9 @@
 
 
 
-<h1 > Hi, I'm Alex, a Frontend Developer👨 </h1>
+<h1 > Hi, I'm Alex, a Frontend Developer🔥 </h1>
 
-💻 I’m currently working on a lot of projects. <br>
+
 📱 I'm currently learning React.js and React Native.
 
 
@@ -20,4 +20,4 @@
 
 
 <img src="https://plateheart.com/wp-content/uploads/2022/07/Untitled-1-1001x1024.png" width="250">
-I am currently working on an application with which you can find someone by car registration numbers.
+I'm currently working on an application with which you can find someone by car registration numbers.
